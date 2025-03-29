@@ -1,0 +1,13 @@
+{ "menu" : {
+    "items": [
+        {
+            "name": "Cheeseburger",
+            "description": "CLassic cheesburger comes with lettuce, tomatoes, onions, mayo, pickles and kethchup. Additional toppings available.",
+            "price": 7.99,
+            "catagory": ["Burgers"],
+            "image": "Image URL",
+            "available": true
+        }
+    ]
+}
+}
