@@ -7,6 +7,94 @@
             "catagory": ["Burgers"],
             "image": "Image URL",
             "available": true
+        },
+        {
+            "name": "Chicken Sandwich",
+            "description": "Crispy chicken sandwich with lettuce, tomatoes, onions, mayo, pickles and kethchup. Additional toppings available.",
+            "price": 8.99,
+            "catagory": ["Sandwiches"],
+            "image": "Image URL",
+            "available": true
+        },
+        {
+            "name": "Grilled Cheese",
+            "description": "Classic griled cheese. Available with choice of soup or fruit on the side",
+            "price": 5.99,
+            "catagory": ["Sandwiches"],
+            "image": "Image URL",
+            "available": true
+        },
+        {
+            "name": "Mac n Cheese",
+            "description": "Macaroni with melted american, cheddar, and mozzerela cheese.",
+            "price": 6.99,
+            "catagory": ["Pasta"],
+            "image": "Image URL",
+            "available": true
+        },
+        {
+            "name": "Spaghetti",
+            "description": "Spaghetti with marinara sauce and meatballs.",
+            "price": 8.99,
+            "catagory": ["Pasta"],
+            "image": "Image URL",
+            "available": true
+        },
+        {
+            "name": "Fetucini Alfredo",
+            "description": "Fetucini with alfredo sauce and chicken.",
+            "price": 9.99,
+            "catagory": ["Pasta"],
+            "image": "Image URL",
+            "available": true
+        },
+        {
+            "name": "Tomato soup",
+            "desription": "Warm  tomato soup with basil and parmesan cheese.",
+            "price": 4.99,
+            "catagory": ["Soups"],
+            "image": "Image URL",
+            "available": true
+        },
+        {
+            "name": "Chicken noodle soup",
+            "description": "Chicken noodle soup with carrots, celery, and egg noodles.",
+            "price": 5.99,
+            "catagory": ["Soups"],
+            "image": "Image URL",
+            "available": true
+        },
+        {
+            "name": "Caesar salad",
+            "description": "Romaine lettuce with caesar dressing, croutons, and parmesan cheese.",
+            "price": 6.99,
+            "catagory": ["Salads"],
+            "image": "Image URL",
+            "available": true
+        },
+        {
+            "name": "Garden salad",
+            "description": "Mixed greens with tomatoes, cucumbers, and carrots.",
+            "price": 5.99,
+            "catagory": ["Salads"],
+            "image": "Image URL",
+            "available": true
+        },
+        {
+            "name": "Greek salad",
+            "description": "Mixed greens with feta cheese, olives, and greek dressing.",
+            "price": 7.99,
+            "catagory": ["Salads"],
+            "image": "Image URL",
+            "available": true
+        },
+        {
+            "name": "French fries",
+            "description": "Crispy french fries with ketchup.",
+            "price": 2.99,
+            "catagory": ["Sides"],
+            "image": "Image URL",
+            "available": true
         }
     ]
 }
